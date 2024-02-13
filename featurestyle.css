@@ -1,0 +1,29 @@
+/**********  Feature-Section CSS Code Starts  **********/
+.featured-content i {
+	font-size: 37px;
+	padding: 7px 0 0 10px;
+	color: #eb372a;
+}
+.featured-content h4 {
+	color: #666;
+	font-size: 14px;
+	margin: 0 0 5px;
+	text-transform: uppercase;
+	font-weight:500;
+	font-family "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.featured-content p {
+	font-size: 13px;
+	color:#333333;
+	font-family "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.margin-top-8 {
+	margin-top:8px;
+}
+.featured-border {
+	border: 1px solid #ebebeb;
+	width:100%;
+	float:left;
+	padding:15px 0px;
+}
+/**********   Feature-Section CSS Code Ends  **********/
